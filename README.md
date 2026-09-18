@@ -1,7 +1,22 @@
 # -Product-Management-Milestones
 # 📱 Product Management Milestone 1
 ## India's Voice-First Mobile Reality
+# 📱 Milestone 1 — India's Voice-First Mobile Reality
 
+## 📌 Project Overview
+
+[Detailed explanation here]
+
+## 🖼️ Presentation
+
+### Slide 1 — India's Voice-First Mobile Reality
+![Slide 1](./Slide-1-India-Voice-First-Mobile-Reality.png)
+
+### Slide 2 — ChatGPT Voice Experience
+![Slide 2](./Slide-2-Voice-Experience-Comparison.png)
+
+### Slide 3 — Voice Growth & KPI Framework
+![Slide 3](./Slide-3-Voice-Growth-KPI-Framework.png) 
 ### Overview
 
 This project explores the voice usage landscape in India and examines

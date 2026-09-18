@@ -3,7 +3,7 @@ Milestone-1-Indias-Voice-First-Mobile-Reality.pdf
 ## 🇮🇳 India's Voice-First Mobile Reality
 
 ### 🎯 Project Overview
-
+ 
 This milestone explores India's voice-first mobile landscape and
 examines how ChatGPT's voice experience fits into existing user
 behavior.

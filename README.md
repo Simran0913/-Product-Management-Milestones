@@ -1,6 +1,8 @@
 # 📱 Product Management — Milestone 1
 Milestone-1-Indias-Voice-First-Mobile-Reality.pdf
 ## 🇮🇳 India's Voice-First Mobile Reality
+## 📊 Milestone 2 Presentation
+[Voice_Input_Adoption_Milestone2.pdf](https://github.com/user-attachments/files/33029522/Voice_Input_Adoption_Milestone2.pdf)
 
 ### 🎯 Project Overview
  
